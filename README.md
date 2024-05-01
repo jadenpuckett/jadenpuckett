@@ -1,1 +1,2 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadenpuckett&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jadenpuckett)](https://github.com/anuraghazra/github-readme-stats)
