@@ -124,7 +124,7 @@ Clean, readable code that respects the developer who comes after you. Ship small
 <br><sub>Gym PRs & Git PRs</sub>
 </td>
 <td align="center" width="25%">
-<img width="40" src="https://img.icons8.com/emoji/48/basketball-player.png" alt="sports"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3c0.png" alt="sports"/>
 <br><b>Sports</b>
 <br><sub>Always competitive</sub>
 </td>
@@ -151,7 +151,7 @@ Clean, readable code that respects the developer who comes after you. Ship small
 <br><sub>Winding down after debug sessions</sub>
 </td>
 <td align="center" width="25%">
-<img width="40" src="https://img.icons8.com/emoji/48/globe-showing-americas.png" alt="travel"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2708.png" alt="travel"/>
 <br><b>Travelling</b>
 <br><sub>New places, new perspectives</sub>
 </td>
