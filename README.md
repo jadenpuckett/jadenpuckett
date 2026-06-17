@@ -203,7 +203,7 @@ Clean, readable code that respects the developer who comes after you. Ship small
 
 <div align="center">
 
-### � *"The city needs protecting. The codebase needs refactoring."*
+### 🦇 *"The city needs protecting. The codebase needs refactoring."*
 
 <br>
 
