@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b6b,50:DC143C,100:0d1117&height=220&section=header&text=jadenpuckett&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2a2a2a,100:c0c0c0&height=220&section=header&text=jadenpuckett&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=16)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4169E1&center=true&vCenter=true&width=800&lines=With+great+code+comes+great+responsibility;Pixel-perfect+or+it+doesn't+ship;Building+interfaces+that+feel+like+superpowers;Clean+code.+Clean+design.+No+compromises." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=22&pause=1000&color=C0C0C0&center=true&vCenter=true&width=800&lines=Precision+engineering+for+the+modern+web;Crafted+with+intent.+Shipped+with+confidence.;Clean+architecture.+Refined+interfaces.;Every+detail+matters." alt="Typing SVG" />
 
 </div>
 
@@ -12,9 +12,7 @@
 
 <div align="center">
 
-## 🦸 Origin Story
-
-<br>
+## About
 
 <table>
 <tr>
@@ -22,19 +20,14 @@
 
 ```yaml
 name: jadenpuckett
-alias: The Web Avenger
-class: Full-Stack Web Developer
-alignment: Chaotic Good
-
-powers:
-  - Frontend Sorcery (Angular, TypeScript)
-  - Backend Brawling (Node.js, REST APIs)
-  - CSS Shapeshifting (Tailwind, SCSS)
-  - DevOps Mastery (Docker, GitLab CI/CD)
-  - Database Telepathy (PostgreSQL, SQL)
-
-weakness: "Just one more feature..."
-catchphrase: "It works on my machine... and in the container."
+role: Full-Stack Web Developer
+focus: Precision-crafted interfaces & scalable systems
+stack:
+  - Frontend: Angular, TypeScript, Tailwind, SCSS
+  - Backend: Node.js, REST APIs
+  - Data: PostgreSQL, SQL
+  - Infrastructure: Docker, GitLab CI/CD
+philosophy: "Measure twice, deploy once."
 ```
 
 </td>
@@ -49,7 +42,7 @@ catchphrase: "It works on my machine... and in the container."
 
 <div align="center">
 
-## 🛠️ Utility Belt
+## Tech Stack
 
 <br>
 
@@ -58,7 +51,6 @@ catchphrase: "It works on my machine... and in the container."
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -75,7 +67,7 @@ catchphrase: "It works on my machine... and in the container."
 
 <div align="center">
 
-## ⚡ Mission Log
+## Approach
 
 <br>
 
@@ -83,22 +75,22 @@ catchphrase: "It works on my machine... and in the container."
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Dev Philosophy
+### Philosophy
 
-> *"Write code like the next person to maintain it is a sleep-deprived version of yourself."*
+> *"Write code like it's going into production at 2 AM — because it will."*
 
-Clean, readable code that respects the developer who comes after you. Ship small, iterate fast, test what matters. If the UI doesn't feel right — redesign it.
+Clean, intentional code. Ship small, iterate fast, test what matters. If the interface doesn't feel seamless — redesign it. Every interaction should feel effortless.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔭 Current Missions
+### Current Focus
 
-- 🎨 Crafting pixel-perfect Angular UIs with smooth UX
-- ⚙️ Building robust REST APIs and services
-- 🗄️ Designing efficient PostgreSQL schemas
-- 🐳 Containerizing everything that moves
-- 🚀 Automating CI/CD for faster delivery
+- ◆ Crafting refined Angular interfaces with fluid UX
+- ◆ Building robust REST APIs and microservices
+- ◆ Designing efficient PostgreSQL schemas
+- ◆ Containerizing and orchestrating with Docker
+- ◆ Automating CI/CD pipelines for seamless delivery
 
 </td>
 </tr>
@@ -112,7 +104,7 @@ Clean, readable code that respects the developer who comes after you. Ship small
 
 <div align="center">
 
-## 🎯 Off-Duty Intel
+## Beyond the Code
 
 <br>
 
@@ -120,45 +112,45 @@ Clean, readable code that respects the developer who comes after you. Ship small
 <tr>
 <td align="center" width="25%">
 <img width="40" src="https://img.icons8.com/emoji/48/person-lifting-weights.png" alt="lifting"/>
-<br><b>Lifting Heavy</b>
-<br><sub>Gym PRs & Git PRs</sub>
+<br><b>Training</b>
+<br><sub>Discipline in the gym & in the repo</sub>
 </td>
 <td align="center" width="25%">
 <img width="40" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3c0.png" alt="sports"/>
 <br><b>Sports</b>
-<br><sub>Always competitive</sub>
+<br><sub>Competitive by nature</sub>
 </td>
 <td align="center" width="25%">
 <img width="40" src="https://img.icons8.com/emoji/48/hot-beverage.png" alt="coffee"/>
 <br><b>Coffee</b>
-<br><sub>Pre-workout & post-deploy</sub>
+<br><sub>Fuel for focus</sub>
 </td>
 <td align="center" width="25%">
 <img width="40" src="https://img.icons8.com/emoji/48/artist-palette.png" alt="design"/>
-<br><b>UI/UX Design</b>
-<br><sub>If it's not clean, I'm fixing it</sub>
+<br><b>Design</b>
+<br><sub>If it's not refined, it's not done</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
 <img width="40" src="https://img.icons8.com/emoji/48/evergreen-tree.png" alt="nature"/>
 <br><b>Nature</b>
-<br><sub>Recharging between sprints</sub>
+<br><sub>Clarity between sessions</sub>
 </td>
 <td align="center" width="25%">
 <img width="40" src="https://img.icons8.com/emoji/48/video-game.png" alt="gaming"/>
 <br><b>Gaming</b>
-<br><sub>Winding down after debug sessions</sub>
+<br><sub>Downtime, done right</sub>
 </td>
 <td align="center" width="25%">
 <img width="40" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2708.png" alt="travel"/>
-<br><b>Travelling</b>
-<br><sub>New places, new perspectives</sub>
+<br><b>Travel</b>
+<br><sub>New places, wider perspective</sub>
 </td>
 <td align="center" width="25%">
 <img width="40" src="https://img.icons8.com/emoji/48/high-voltage.png" alt="energy"/>
-<br><b>Driven</b>
-<br><sub>Always levelling up</sub>
+<br><b>Drive</b>
+<br><sub>Always elevating</sub>
 </td>
 </tr>
 </table>
@@ -171,15 +163,15 @@ Clean, readable code that respects the developer who comes after you. Ship small
 
 <div align="center">
 
-## 📊 Hero Stats
+## Stats
 
 <br>
 
-<img width="54%" src="https://github-readme-stats.vercel.app/api?username=jadenpuckett&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4169E1&icon_color=DC143C&text_color=c9d1d9&ring_color=DC143C" />
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=jadenpuckett&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c0c0c0&icon_color=ffffff&text_color=a0a0a0&ring_color=c0c0c0" />
 
 <br><br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadenpuckett&layout=compact&hide_border=true&bg_color=0d1117&title_color=4169E1&text_color=c9d1d9&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadenpuckett&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c0c0c0&text_color=a0a0a0&langs_count=8" />
 
 </div>
 
@@ -189,11 +181,11 @@ Clean, readable code that respects the developer who comes after you. Ship small
 
 <div align="center">
 
-## 📈 Activity
+## Activity
 
 <br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadenpuckett&hide_border=true&bg_color=0d1117&color=4169E1&line=DC143C&point=ffffff&area=true&area_color=1a1b6b)](https://github.com/jadenpuckett)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadenpuckett&hide_border=true&bg_color=0d0d0d&color=c0c0c0&line=ffffff&point=c0c0c0&area=true&area_color=1a1a1a)](https://github.com/jadenpuckett)
 
 </div>
 
@@ -203,12 +195,12 @@ Clean, readable code that respects the developer who comes after you. Ship small
 
 <div align="center">
 
-### 🦇 *"The city needs protecting. The codebase needs refactoring."*
+*"Precision is not perfectionism — it's respect for the craft."*
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jadenpuckett&color=4169E1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=jadenpuckett&color=808080&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:DC143C,100:1a1b6b&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:c0c0c0,50:2a2a2a,100:0d0d0d&height=100&section=footer)
