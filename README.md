@@ -14,9 +14,11 @@
 
 ## 🦸 Origin Story
 
-</div>
+<br>
 
-<div align="center">
+<table>
+<tr>
+<td>
 
 ```yaml
 name: jadenpuckett
@@ -34,6 +36,10 @@ powers:
 weakness: "Just one more feature..."
 catchphrase: "It works on my machine... and in the container."
 ```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -113,12 +119,12 @@ Clean, readable code that respects the developer who comes after you. Ship small
 <table>
 <tr>
 <td align="center" width="25%">
-<img width="40" src="https://img.icons8.com/emoji/48/weight-lifting.png" alt="lifting"/>
+<img width="40" src="https://img.icons8.com/emoji/48/person-lifting-weights.png" alt="lifting"/>
 <br><b>Lifting Heavy</b>
 <br><sub>Gym PRs & Git PRs</sub>
 </td>
 <td align="center" width="25%">
-<img width="40" src="https://img.icons8.com/emoji/48/basketball.png" alt="sports"/>
+<img width="40" src="https://img.icons8.com/emoji/48/basketball-player.png" alt="sports"/>
 <br><b>Sports</b>
 <br><sub>Always competitive</sub>
 </td>
@@ -145,7 +151,7 @@ Clean, readable code that respects the developer who comes after you. Ship small
 <br><sub>Winding down after debug sessions</sub>
 </td>
 <td align="center" width="25%">
-<img width="40" src="https://img.icons8.com/emoji/48/airplane.png" alt="travel"/>
+<img width="40" src="https://img.icons8.com/emoji/48/globe-showing-americas.png" alt="travel"/>
 <br><b>Travelling</b>
 <br><sub>New places, new perspectives</sub>
 </td>
