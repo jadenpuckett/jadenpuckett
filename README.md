@@ -13,7 +13,7 @@
 ## 🦸 Origin Story
 
 ```yaml
-name: YOUR_USERNAME
+name: jadenpuckett
 alias: The Web Avenger
 class: Full-Stack Web Developer
 alignment: Chaotic Good
@@ -105,4 +105,3 @@ catchphrase: "It works on my machine."
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:0d1117&height=100&section=footer)
-
