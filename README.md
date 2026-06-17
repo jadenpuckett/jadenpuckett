@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b6b,50:DC143C,100:0d1117&height=220&section=header&text=jadenpuckett&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=16)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=With+great+code+comes+great+responsibility;Pixel-perfect+or+it+doesn't+ship;Building+interfaces+that+feel+like+superpowers;Clean+code.+Clean+design.+No+compromises." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4169E1&center=true&vCenter=true&width=800&lines=With+great+code+comes+great+responsibility;Pixel-perfect+or+it+doesn't+ship;Building+interfaces+that+feel+like+superpowers;Clean+code.+Clean+design.+No+compromises." alt="Typing SVG" />
 
 </div>
 
