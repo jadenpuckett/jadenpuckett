@@ -81,10 +81,13 @@ I believe in clean, readable code that respects the developer who comes after yo
 <summary>🎯 <b>Fun facts</b></summary>
 <br>
 
-- ☕ Coffee-to-code conversion rate: 97.3%
-- 🐛 Bugs squashed this year: _too many to count_
-- 🎵 Coding soundtrack: lo-fi beats + synthwave
-- 🧩 Favorite SQL trick: recursive CTEs
+- ☕ Fueled by coffee — pre-workout and post-deploy
+- 🏋️ Lifting heavy and pushing PRs (the gym kind and the Git kind)
+- 🏀 Always down for a pickup game or anything competitive
+- 🎨 Obsessed with clean UI/UX — if it doesn't feel right, I'm redesigning it
+- 🌲 Recharging in nature between sprints
+- � Winding down with video games after a long debug session
+- ✈️ Travelling whenever I can — new places, new perspectives
 
 </details>
 
