@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:DC143C&height=200&section=header&text=jadenpuckett&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Code%20Hero&descAlignY=55&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=With+great+code+comes+great+responsibility;Building+the+web+one+component+at+a+time;Turning+coffee+into+superpowers+%E2%98%95%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=Great+code%2C+great+responsibility;Building+the+web+one+component+at+a+time;Turning+coffee+into+superpowers+%E2%98%95%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
@@ -20,10 +20,10 @@ alignment: Chaotic Good
 
 powers:
   - Frontend Sorcery (Angular, TypeScript)
-  - Backend Brawling (Node.js, Express, APIs)
+  - Backend Brawling (Node.js, REST APIs)
   - CSS Shapeshifting (Tailwind, SCSS)
   - DevOps Mastery (Docker, GitLab CI/CD)
-  - Database Telepathy (SQL, MongoDB)
+  - Database Telepathy (PostgreSQL, SQL)
 
 weakness: "Just one more feature..."
 catchphrase: "It works on my machine... and in the container."
@@ -39,6 +39,7 @@ catchphrase: "It works on my machine... and in the container."
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -46,6 +47,46 @@ catchphrase: "It works on my machine... and in the container."
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🎮 Choose Your Adventure
+
+<div align="center">
+
+<details>
+<summary>🧠 <b>What's my dev philosophy?</b></summary>
+<br>
+
+> "Write code like the next person to maintain it is a sleep-deprived version of yourself."
+
+I believe in clean, readable code that respects the developer who comes after you. Ship small, iterate fast, test what matters.
+
+</details>
+
+<details>
+<summary>⚡ <b>What am I working on?</b></summary>
+<br>
+
+- 🔭 Building full-stack Angular apps with robust APIs
+- 🗄️ Designing efficient PostgreSQL schemas and queries
+- 🐳 Containerizing everything that moves
+- 🚀 Automating CI/CD pipelines for faster delivery
+
+</details>
+
+<details>
+<summary>🎯 <b>Fun facts</b></summary>
+<br>
+
+- ☕ Coffee-to-code conversion rate: 97.3%
+- 🐛 Bugs squashed this year: _too many to count_
+- 🎵 Coding soundtrack: lo-fi beats + synthwave
+- 🧩 Favorite SQL trick: recursive CTEs
+
+</details>
 
 </div>
 
@@ -68,7 +109,21 @@ catchphrase: "It works on my machine... and in the container."
 
 ---
 
-## 📈 Contribution Graph
+## � Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jadenpuckett/jadenpuckett/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jadenpuckett/jadenpuckett/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jadenpuckett/jadenpuckett/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## �📈 Contribution Graph
 
 <div align="center">
 
@@ -80,7 +135,7 @@ catchphrase: "It works on my machine... and in the container."
 
 <div align="center">
 
-### � "The city needs protecting. The codebase needs refactoring."
+### 🦇 "The city needs protecting. The codebase needs refactoring."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jadenpuckett&color=DC143C&style=for-the-badge&label=PROFILE+VIEWS)
 
