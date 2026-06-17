@@ -97,7 +97,6 @@ I believe in clean, readable code that respects the developer who comes after yo
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jadenpuckett&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=jadenpuckett&theme=radical&hide_border=true&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
 
 </div>
 
@@ -109,19 +108,7 @@ I believe in clean, readable code that respects the developer who comes after yo
 
 ---
 
-## � Watch My Contributions Get Eaten
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jadenpuckett/jadenpuckett/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jadenpuckett/jadenpuckett/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jadenpuckett/jadenpuckett/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 ## �📈 Contribution Graph
 
