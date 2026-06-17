@@ -113,7 +113,7 @@ I believe in clean, readable code that respects the developer who comes after yo
 
 
 
-## �📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
