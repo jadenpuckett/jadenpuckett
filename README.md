@@ -1,16 +1,22 @@
 <div align="center">
 
-# 🦸 Initiating Hero Protocol 🦸
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b6b,50:DC143C,100:0d1117&height=220&section=header&text=jadenpuckett&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=16)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:DC143C&height=200&section=header&text=jadenpuckett&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Code%20Hero&descAlignY=55&descSize=18)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=800&lines=With+great+code+comes+great+responsibility;I+am+the+night...+shift+debugger;Why+do+we+fall%3F+To+learn+to+git+rebase;I+can+do+this+all+day+%E2%80%94+said+no+one+during+code+review" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=With+great+code+comes+great+responsibility;Pixel-perfect+or+it+doesn't+ship;Building+interfaces+that+feel+like+superpowers;Clean+code.+Clean+design.+No+compromises." alt="Typing SVG" />
 
 </div>
 
----
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## 🦸 Origin Story
+
+</div>
+
+<div align="center">
 
 ```yaml
 name: jadenpuckett
@@ -29,17 +35,24 @@ weakness: "Just one more feature..."
 catchphrase: "It works on my machine... and in the container."
 ```
 
----
+</div>
 
-## 🛠️ Utility Belt
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🛠️ Utility Belt
+
+<br>
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -50,85 +63,146 @@ catchphrase: "It works on my machine... and in the container."
 
 </div>
 
----
+<br>
 
-## 🎮 Choose Your Adventure
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<details>
-<summary>🧠 <b>What's my dev philosophy?</b></summary>
+## ⚡ Mission Log
+
 <br>
 
-> "Write code like the next person to maintain it is a sleep-deprived version of yourself."
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I believe in clean, readable code that respects the developer who comes after you. Ship small, iterate fast, test what matters.
+### 🧠 Dev Philosophy
 
-</details>
+> *"Write code like the next person to maintain it is a sleep-deprived version of yourself."*
 
-<details>
-<summary>⚡ <b>What am I working on?</b></summary>
-<br>
+Clean, readable code that respects the developer who comes after you. Ship small, iterate fast, test what matters. If the UI doesn't feel right — redesign it.
 
-- 🔭 Building full-stack Angular apps with robust APIs
-- 🗄️ Designing efficient PostgreSQL schemas and queries
+</td>
+<td width="50%" valign="top">
+
+### 🔭 Current Missions
+
+- 🎨 Crafting pixel-perfect Angular UIs with smooth UX
+- ⚙️ Building robust REST APIs and services
+- 🗄️ Designing efficient PostgreSQL schemas
 - 🐳 Containerizing everything that moves
-- 🚀 Automating CI/CD pipelines for faster delivery
+- 🚀 Automating CI/CD for faster delivery
 
-</details>
-
-<details>
-<summary>🎯 <b>Fun facts</b></summary>
-<br>
-
-- ☕ Fueled by coffee — pre-workout and post-deploy
-- 🏋️ Lifting heavy and pushing PRs (the gym kind and the Git kind)
-- 🏀 Always down for a pickup game or anything competitive
-- 🎨 Obsessed with clean UI/UX — if it doesn't feel right, I'm redesigning it
-- 🌲 Recharging in nature between sprints
-- � Winding down with video games after a long debug session
-- ✈️ Travelling whenever I can — new places, new perspectives
-
-</details>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🎯 Off-Duty Intel
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img width="40" src="https://img.icons8.com/emoji/48/weight-lifting.png" alt="lifting"/>
+<br><b>Lifting Heavy</b>
+<br><sub>Gym PRs & Git PRs</sub>
+</td>
+<td align="center" width="25%">
+<img width="40" src="https://img.icons8.com/emoji/48/basketball.png" alt="sports"/>
+<br><b>Sports</b>
+<br><sub>Always competitive</sub>
+</td>
+<td align="center" width="25%">
+<img width="40" src="https://img.icons8.com/emoji/48/hot-beverage.png" alt="coffee"/>
+<br><b>Coffee</b>
+<br><sub>Pre-workout & post-deploy</sub>
+</td>
+<td align="center" width="25%">
+<img width="40" src="https://img.icons8.com/emoji/48/artist-palette.png" alt="design"/>
+<br><b>UI/UX Design</b>
+<br><sub>If it's not clean, I'm fixing it</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img width="40" src="https://img.icons8.com/emoji/48/evergreen-tree.png" alt="nature"/>
+<br><b>Nature</b>
+<br><sub>Recharging between sprints</sub>
+</td>
+<td align="center" width="25%">
+<img width="40" src="https://img.icons8.com/emoji/48/video-game.png" alt="gaming"/>
+<br><b>Gaming</b>
+<br><sub>Winding down after debug sessions</sub>
+</td>
+<td align="center" width="25%">
+<img width="40" src="https://img.icons8.com/emoji/48/airplane.png" alt="travel"/>
+<br><b>Travelling</b>
+<br><sub>New places, new perspectives</sub>
+</td>
+<td align="center" width="25%">
+<img width="40" src="https://img.icons8.com/emoji/48/high-voltage.png" alt="energy"/>
+<br><b>Driven</b>
+<br><sub>Always levelling up</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## 📊 Hero Stats
 
-<div align="center">
+<br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jadenpuckett&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=jadenpuckett&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4169E1&icon_color=DC143C&text_color=c9d1d9&ring_color=DC143C" />
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadenpuckett&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadenpuckett&layout=compact&hide_border=true&bg_color=0d1117&title_color=4169E1&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
----
+<br>
 
-
-
-## 📈 Contribution Graph
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadenpuckett&theme=redical&hide_border=true&bg_color=0d1117&color=DC143C&line=DC143C&point=ffffff)](https://github.com/jadenpuckett)
+## 📈 Activity
+
+<br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadenpuckett&hide_border=true&bg_color=0d1117&color=4169E1&line=DC143C&point=ffffff&area=true&area_color=1a1b6b)](https://github.com/jadenpuckett)
 
 </div>
 
----
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🦇 "The city needs protecting. The codebase needs refactoring."
+### � *"The city needs protecting. The codebase needs refactoring."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=jadenpuckett&color=DC143C&style=for-the-badge&label=PROFILE+VIEWS)
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jadenpuckett&color=4169E1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:0d1117&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:DC143C,100:1a1b6b&height=100&section=footer)
