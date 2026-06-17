@@ -2,7 +2,7 @@
 
 # ⚡ Welcome to the Batcave ⚡
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:DC143C&height=200&section=header&text=YOUR_USERNAME&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Code%20Hero&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:DC143C&height=200&section=header&text=jadenpuckett&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Code%20Hero&descAlignY=55&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=With+great+code+comes+great+responsibility;Building+the+web+one+component+at+a+time;Turning+coffee+into+superpowers+%E2%98%95%E2%9A%A1" alt="Typing SVG" />
 
@@ -54,13 +54,13 @@ catchphrase: "It works on my machine."
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jadenpuckett&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jadenpuckett&theme=radical&hide_border=true&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadenpuckett&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -70,7 +70,7 @@ catchphrase: "It works on my machine."
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=jadenpuckett&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 
@@ -80,7 +80,7 @@ catchphrase: "It works on my machine."
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true&bg_color=0d1117&color=DC143C&line=DC143C&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadenpuckett&theme=redical&hide_border=true&bg_color=0d1117&color=DC143C&line=DC143C&point=ffffff)
 
 </div>
 
@@ -90,7 +90,7 @@ catchphrase: "It works on my machine."
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/jadenpuckett/jadenpuckett/output/github-snake-dark.svg)
 
 </div>
 
@@ -100,7 +100,7 @@ catchphrase: "It works on my machine."
 
 ### 💬 "The city needs protecting. The codebase needs refactoring."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=DC143C&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=jadenpuckett&color=DC143C&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
