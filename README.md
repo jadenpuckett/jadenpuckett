@@ -53,7 +53,7 @@ catchphrase: "It works on my machine."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jadenpuckett&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
 
 </div>
