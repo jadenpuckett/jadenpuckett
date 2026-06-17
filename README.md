@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2a2a2a,100:c0c0c0&height=220&section=header&text=jadenpuckett&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2b2b3a,100:c0c0c0&height=220&section=header&text=jadenpuckett&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=16)
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=22&pause=1000&color=C0C0C0&center=true&vCenter=true&width=800&lines=Precision+engineering+for+the+modern+web;Crafted+with+intent.+Shipped+with+confidence.;Clean+architecture.+Refined+interfaces.;Every+detail+matters." alt="Typing SVG" />
 
@@ -49,6 +49,7 @@ philosophy: "Measure twice, deploy once."
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -167,11 +168,11 @@ Clean, intentional code. Ship small, iterate fast, test what matters. If the int
 
 <br>
 
-<img width="54%" src="https://github-readme-stats.vercel.app/api?username=jadenpuckett&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c0c0c0&icon_color=ffffff&text_color=a0a0a0&ring_color=c0c0c0" />
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=jadenpuckett&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=c0c0c0&icon_color=ffffff&text_color=a0a0a0&ring_color=c0c0c0" />
 
 <br><br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadenpuckett&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c0c0c0&text_color=a0a0a0&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadenpuckett&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c0c0c0&text_color=a0a0a0&langs_count=8" />
 
 </div>
 
@@ -185,7 +186,7 @@ Clean, intentional code. Ship small, iterate fast, test what matters. If the int
 
 <br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadenpuckett&hide_border=true&bg_color=0d0d0d&color=c0c0c0&line=ffffff&point=c0c0c0&area=true&area_color=1a1a1a)](https://github.com/jadenpuckett)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadenpuckett&hide_border=true&bg_color=1a1a2e&color=c0c0c0&line=ffffff&point=c0c0c0&area=true&area_color=2b2b3a)](https://github.com/jadenpuckett)
 
 </div>
 
@@ -203,4 +204,4 @@ Clean, intentional code. Ship small, iterate fast, test what matters. If the int
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:c0c0c0,50:2a2a2a,100:0d0d0d&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:c0c0c0,50:2b2b3a,100:1a1a2e&height=100&section=footer)
